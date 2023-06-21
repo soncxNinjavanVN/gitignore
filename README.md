@@ -10,3 +10,9 @@ Sample of unordered list:
 * BI
   * PDT
 - BI-Techops
+
+
+Sample of ordered list:
+1. BI
+2. PDT
+3. BI-Techops
